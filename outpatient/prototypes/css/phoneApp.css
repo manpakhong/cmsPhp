@@ -1,0 +1,15 @@
+.x-tree-icon { display: none !important; }
+
+.patient_episode_table {
+	width: 80%;
+	border-collapse: collapse;
+}
+.patient_episode_table td {
+    border: 1px solid #ddd;
+    padding: 3px;
+}
+.label_td{
+	background-color: #4CAF50;
+}
+
+/*.patient_episode_table tr:nth-child(even){background-color: #f2f2f2;}*/

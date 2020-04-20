@@ -1,0 +1,7 @@
+.flowStageTable{
+	/*border-collapse: collapse;*/
+}
+.flowStageTable tr, td{
+    border: 1px solid black;
+}
+.x-tree-icon { display: none !important; }

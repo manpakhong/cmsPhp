@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <row><ClassID>1</ClassID><PrefixID>1</PrefixID><ClassName>User.APCVendCat</ClassName><TableName>APC_VendCat</TableName></row>
+    <row><ClassID>2</ClassID><PrefixID>1</PrefixID><ClassName>User.APCVendor</ClassName><TableName>APC_Vendor</TableName></row>
+    <row><ClassID>3</ClassID><PrefixID>2</PrefixID><ClassName>User.ARBatch</ClassName><TableName>AR_Batch</TableName></row>
+    <row><ClassID>4</ClassID><PrefixID>2</PrefixID><ClassName>User.ARBatchComm</ClassName><TableName>AR_BatchComm</TableName></row>
+</root>

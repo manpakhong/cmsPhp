@@ -1,0 +1,26 @@
+[{
+ "id": 1,
+ "nameEng": "tympanic temperature",
+ "nameChi": "耳探",
+ "unitTypeString": "°C",
+ "measurableAttribute": true
+ }, {
+ "id": 2,
+ "nameEng": "oral temperature",
+ "nameChi": "口探",
+ "unitTypeString": "°C",
+ "measurableAttribute": true
+}, {
+ "id": 3,
+ "nameEng": "rectal temperature",
+ "nameChi": "肛探",
+ "unitTypeString": "°C",
+ "measurableAttribute": true
+}, {
+ "id": 4,
+ "nameEng": "axillary temperature",
+ "nameChi": "腋探",
+ "unitTypeString": "°C",
+ "measurableAttribute": true
+}
+]

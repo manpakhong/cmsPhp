@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <row><PrefixID>1</PrefixID><Description>Accounts Payable</Description><Prefix>APC</Prefix><Type>M</Type></row>
+    <row><PrefixID>2</PrefixID><Description>Accounts Receivable</Description><Prefix>AR</Prefix><Type>C</Type></row>
+    <row><PrefixID>3</PrefixID><Description>Accounts Receivable</Description><Prefix>ARC</Prefix><Type>M</Type></row>
+    <row><PrefixID></PrefixID><Description></Description><Prefix></Prefix><Type></Type></row>
+</root>
